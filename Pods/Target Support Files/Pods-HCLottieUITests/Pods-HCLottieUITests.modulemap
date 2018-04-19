@@ -1,0 +1,6 @@
+framework module Pods_HCLottieUITests {
+  umbrella header "Pods-HCLottieUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
